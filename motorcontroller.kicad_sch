@@ -3452,6 +3452,9 @@
     (path "/67041cbe-1cf9-4b10-9130-2613208221d9/a1d2b0b5-f875-4d59-8c5b-51c4d08180eb"
       (reference "#PWR0310") (unit 1) (value "GND") (footprint "")
     )
+    (path "/67041cbe-1cf9-4b10-9130-2613208221d9/5782dec6-305e-43cf-9e72-d51fbd725cc5"
+      (reference "#PWR0311") (unit 1) (value "GND") (footprint "")
+    )
     (path "/65f51722-13b4-488d-99d4-950482691797/8c9fa189-4b60-4ced-ab4c-a6ce0bbd4ad9"
       (reference "#PWR0401") (unit 1) (value "GND") (footprint "")
     )
@@ -4028,8 +4031,8 @@
     (path "/65f51722-13b4-488d-99d4-950482691797/faa83cca-9f94-4847-96dc-1ae6397e1de1"
       (reference "U404") (unit 1) (value "LM5110-1MX") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/67041cbe-1cf9-4b10-9130-2613208221d9/9b067e42-a556-47f3-b5be-4094d747c127"
-      (reference "Y301") (unit 1) (value "8MHz") (footprint "Crystal:Crystal_SMD_HC49-SD_HandSoldering")
+    (path "/67041cbe-1cf9-4b10-9130-2613208221d9/554a791e-8717-4321-90e5-30ae2dfb47bc"
+      (reference "Y301") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering")
     )
   )
 )
