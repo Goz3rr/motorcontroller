@@ -4489,40 +4489,40 @@
       (reference "D204") (unit 1) (value "SK32") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/29b307cb-17cc-4e00-8815-29a62c023415"
-      (reference "D401") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D401") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/a01ada29-a8fa-41d6-a032-5a4dfd3278a1"
-      (reference "D401") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D401") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/bcf4dab9-18ed-4eef-96cc-f0751745b960"
-      (reference "D402") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D402") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/f0680735-d482-4b4a-9293-ad3bdf0bc125"
-      (reference "D402") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D402") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/423729f4-1980-4a32-a252-63c4d121c689"
-      (reference "D403") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D403") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/b88b03a0-1278-4522-bfef-03bc4ea72d03"
-      (reference "D403") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D403") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/90e46c0d-c02d-45e3-97bf-62724d088dfb"
-      (reference "D404") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D404") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/5e2f7980-9090-4dc6-89ce-593eb37f7988"
-      (reference "D404") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D404") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/88e0af06-1c75-4db6-acc9-c4ddedc5c322"
-      (reference "D405") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D405") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/d9a10e32-d725-4ae3-a58b-7c9882324a70"
-      (reference "D405") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D405") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/e7eb82ad-0d99-47be-b009-859f93ee92a2"
-      (reference "D406") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D406") (unit 1) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/65f51722-13b4-488d-99d4-950482691797/0c2d462d-0b41-4942-9b9c-dcac94781404"
-      (reference "D406") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "D406") (unit 2) (value "G40C100CTFW") (footprint "Package_TO_SOT_THT:TO-220F-3_Vertical")
     )
     (path "/07d44e96-3493-46b0-863d-b53742e0202a/0bbeff35-658a-40be-8490-3688d1dac81f"
       (reference "D501") (unit 1) (value "SS210") (footprint "Diode_SMD:D_SMA_Handsoldering")
