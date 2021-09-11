@@ -1,0 +1,20 @@
+{
+    "name": "FreeRTOS",
+    "version": "202107.00",
+    "keywords": "rtos, timing, thread, task, mutex, semaphore",
+    "description": "Real Time Operating System",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FreeRTOS/FreeRTOS.git"
+    },
+    "frameworks": "libopencm3",
+    "platforms": "ststm32",
+    "build": {
+        "libArchive": false,
+		"flags": [
+			"-Iinclude",
+			"-Iportable/GCC/ARM_CM3/",
+			"-Iportable/MemMang"
+		]
+    }
+}
