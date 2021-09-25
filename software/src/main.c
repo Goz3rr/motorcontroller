@@ -12,6 +12,7 @@
 #include "adc.h"
 #include "buzzer.h"
 #include "motor.h"
+#include "solenoid.h"
 
 void clock_init(void);
 void gpio_init(void);
@@ -79,6 +80,7 @@ int main(void)
     
     motor_init();
     buzzer_init();
+    solenoid_init();
 
     printf("Starting up!\r\n");
 
@@ -91,6 +93,7 @@ int main(void)
     xTaskCreate(task1, "LED", 100, NULL, 2, NULL);
     //xTaskCreate(task2, "Beep", 100, NULL, 2, NULL);
     xTaskCreate(adc_task, "ADC", 256, NULL, 2, NULL);
+    //xTaskCreate(solenoid_task, "Solenoid", 256, NULL, 2, NULL);
 
     vTaskStartScheduler();
 
